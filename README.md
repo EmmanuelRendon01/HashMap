@@ -21,13 +21,6 @@ Un `HashMap` es una estructura de datos que almacena pares clave-valor. Es útil
 - `Persona.java`: Clase personalizada para usar objetos en el mapa.
 - `QueEs.java`: Explicación teórica sobre HashMap.
 
-## Ejemplo básico
-```java
-HashMap<String, Integer> notas = new HashMap<>();
-notas.put("Ana", 80);
-notas.replaceAll((k, v) -> v + 5); // Suma 5 puntos a todas las notas
-```
-
 ## ¿Cómo ejecutar?
 1. Abre el proyecto en IntelliJ IDEA u otro IDE de Java.
 2. Ejecuta el archivo `Main.java` para ver los ejemplos en acción.
