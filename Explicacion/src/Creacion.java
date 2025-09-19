@@ -14,6 +14,8 @@ public class Creacion {
 
         // 3. Los valores pueden ser cualquier objeto (incluyendo otros HashMap).
         // 4. Los primitivos usan Wrappers (int → Integer, double → Double).
+        // son clases que permiten que los tipos de datos primitivos se traten como objetos
+        
         // 5. Llaves únicas.
     }
 
